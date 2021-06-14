@@ -103,3 +103,9 @@ Return the list of available tags for the resource anuncios.
         "mobile"
       ]
     }
+
+## RUTA DESPLIGUE DE SERVIDORES
+
+```
+ec2-18-117-240-234.us-east-2.compute.amazonaws.com
+```
