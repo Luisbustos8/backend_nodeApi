@@ -36,3 +36,4 @@ async function initAnuncios(fichero) {
   return numLoaded;
 
 }
+
